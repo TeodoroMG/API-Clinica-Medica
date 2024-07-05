@@ -1,10 +1,6 @@
-
-create table usuarios (
-
-    id bigint not null auto_increment,
-    login varchar(100) not null,
-    contrasena varchar(300) not null
-
-
- primary key(id)
+CREATE TABLE usuarios (
+    id BIGINT NOT NULL AUTO_INCREMENT,
+    login VARCHAR(100) NOT NULL,
+    contrasena VARCHAR(300) NOT NULL,
+    PRIMARY KEY (id)
 );
