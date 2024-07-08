@@ -1,3 +1,11 @@
+
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
+#Documentación de Proyecto
+##Descripción General
+Este proyecto utiliza Spring Boot 3 para desarrollar una aplicación de en Java que facilita la gestión y consulta de medicos , pacientes y consultas  La aplicación se integra con una base de datos My SQL para almacenar la información recuperada de la API.
+
+Funcionalidades Principales
+
 # Proyecto Clínica Médica API
 
 ¡Gracias por visitar mi proyecto! 👋
@@ -25,4 +33,21 @@ Hemos aplicado analogías prácticas para entender mejor los conceptos:
 - 🔑 **Variables de ambiente:** Protegiendo información sensible como las credenciales de la base de datos
 - 🏠 **Despliegue:** El momento de lanzar tu aplicación al mundo
 
-## 
+## Explicacion Detallada
+
+## Programas Utilizados 
+### Intellijei
+### Insomnia o Postman
+### MySQL
+
+## API
+
+
+
+
+## Contribución 
+¡Si tienes alguna pregunta o sugerencia, no dudes en contactarme!
+
+LinkedIn: [Teodoro Matarrita](https://www.linkedin.com/in/teodoro-matarrita/)
+
+ ### Gracias por tu atención y no dudes en compartir cualquier idea o mejora. ¡Tu creatividad es la chispa que enciende la magia del desarrollo de software!
