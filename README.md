@@ -1,10 +1,10 @@
 
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
-#Documentación de Proyecto
-##Descripción General
-Este proyecto utiliza Spring Boot 3 para desarrollar una aplicación de en Java que facilita la gestión y consulta de medicos , pacientes y consultas  La aplicación se integra con una base de datos My SQL para almacenar la información recuperada de la API.
 
-Funcionalidades Principales
+# Documentación de Proyecto
+
+## Descripción General
+Este proyecto utiliza Spring Boot 3 para desarrollar una aplicación de en Java que facilita la gestión y consulta de medicos , pacientes y consultas  La aplicación se integra con una base de datos My SQL para almacenar la información recuperada de la API.
 
 # Proyecto Clínica Médica API
 
@@ -35,13 +35,44 @@ Hemos aplicado analogías prácticas para entender mejor los conceptos:
 
 ## Explicacion Detallada
 
-## Programas Utilizados 
-### Intellijei
-### Insomnia o Postman
-### MySQL
+ 
+# Herramientas de Desarrollo en Software
 
-## API
+En este documento, exploraremos tres herramientas fundamentales en el desarrollo de software: IntelliJ IDEA, Insomnia y MySQL especificas para este proyecto!
 
+## IntelliJ IDEA
+
+IntelliJ IDEA es un entorno de desarrollo integrado (IDE) utilizado principalmente para el desarrollo de aplicaciones Java. Sus características incluyen:
+
+- **Desarrollo de Proyectos:** Facilita la creación, gestión y navegación a través de proyectos, con integración con sistemas de control de versiones como Git.
+- **Edición de Código:** Ofrece resaltado de sintaxis avanzado, finalización inteligente de código, refactorización segura y navegación rápida.
+- **Depuración:** Proporciona herramientas robustas para depurar aplicaciones, como puntos de interrupción y seguimiento de ejecución.
+- **Pruebas:** Permite ejecutar y gestionar pruebas unitarias e integradas dentro del IDE.
+- **Integración con Frameworks:** Soporta nativamente frameworks como Spring y Hibernate, simplificando el desarrollo.
+- **Plugins:** Extiende sus funcionalidades con una amplia gama de plugins disponibles.
+
+## Insomnia
+
+Insomnia es una herramienta para probar y desarrollar APIs, destacándose por:
+
+- **Gestión de Solicitudes:** Permite crear, organizar y guardar solicitudes HTTP y HTTPS con diferentes métodos.
+- **Variables y Entornos:** Facilita la gestión de variables para configuraciones flexibles en diferentes contextos de desarrollo.
+- **Pruebas y Validaciones:** Automatiza pruebas de API, valida respuestas e inspecciona encabezados y datos devueltos.
+- **Documentación:** Genera documentación automática de API basada en las solicitudes y respuestas configuradas.
+- **Colecciones:** Organiza solicitudes relacionadas en colecciones para gestionar flujos de trabajo complejos.
+
+## MySQL
+
+MySQL es un sistema de gestión de bases de datos relacional conocido por:
+
+- **Creación y Gestión de Bases de Datos:** Permite crear, modificar y eliminar bases de datos y tablas de manera eficiente.
+- **Consultas SQL:** Ejecuta consultas para insertar, actualizar, eliminar y consultar datos almacenados.
+- **Transacciones y Seguridad:** Soporta transacciones ACID y ofrece mecanismos de seguridad para controlar el acceso a los datos.
+- **Herramientas de Administración:** Incluye herramientas como MySQL Workbench para administrar y visualizar bases de datos gráficamente.
+- **Integración con Aplicaciones:** Compatible con diversos lenguajes de programación y entornos de desarrollo para su integración en aplicaciones web y empresariales.
+
+# En Resumen
+IntelliJ IDEA es ideal para el desarrollo Java, Insomnia facilita la prueba y documentación de APIs, y MySQL es robusto para gestionar bases de datos relacionales. Cada una juega un rol esencial en el ciclo de desarrollo de aplicaciones, proporcionando herramientas específicas para diferentes aspectos del desarrollo de software moderno.
 
 
 
